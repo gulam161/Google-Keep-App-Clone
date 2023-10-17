@@ -1,0 +1,15 @@
+.Add {
+  position: absolute;
+  bottom: 1;
+  right: 0;
+  width: 1.5em !important;
+  height: 1.5em !important;
+}
+
+.delete {
+  position: absolute;
+  bottom: -18px;
+  left: 240px;
+  width: 1.2em !important;
+  height: 1.2em !important;
+}
